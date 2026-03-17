@@ -1,0 +1,9 @@
+{
+  "name": "Audio Tools",
+  "content_in_root": false,
+  "domains": ["audio_tools"],
+  "country": "global",
+  "render_readme": true,
+  "category": "integration",
+  "homeassistant": "2024.6.0"
+}
