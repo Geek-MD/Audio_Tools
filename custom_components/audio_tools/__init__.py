@@ -2,7 +2,9 @@
 from homeassistant.core import HomeAssistant
 from homeassistant.config_entries import ConfigEntry
 
-DOMAIN = "audio_tools"
+from .const import DOMAIN
+
+__all__ = ["DOMAIN"]
 
 
 async def async_setup_entry(hass: HomeAssistant, entry: ConfigEntry) -> bool:
