@@ -1,8 +1,10 @@
-# Audio Tools
-
 [![HACS Custom](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://hacs.xyz)
 [![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](CHANGELOG.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+<img width="200" height="200" alt="image" src="https://github.com/Geek-MD/Audio_Tools/blob/main/custom_components/audio_tools/brand/icon.png?raw=true" />
+
+# Audio Tools
 
 A [Home Assistant](https://www.home-assistant.io/) custom integration that provides audio processing tools, including format conversion and channel-mode selection, powered by `ffmpeg`.
 
