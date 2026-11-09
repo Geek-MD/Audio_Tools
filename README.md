@@ -16,6 +16,8 @@
 
 A [Home Assistant](https://www.home-assistant.io/) custom integration that provides audio processing tools, including format conversion and channel-mode selection, powered by `ffmpeg`.
 
+Version **0.1.1** includes the metadata and validation required for Home Assistant 2026.11 Marketplace compatibility.
+
 ---
 
 ## Features
