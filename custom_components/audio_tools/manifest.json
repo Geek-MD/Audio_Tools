@@ -1,12 +1,14 @@
 {
   "domain": "audio_tools",
   "name": "Audio Tools",
+  "categories": ["media_entertainment"],
   "codeowners": ["@Geek-MD"],
   "config_flow": true,
   "dependencies": [],
   "documentation": "https://github.com/Geek-MD/Audio_Tools",
-  "iot_class": "local_polling",
+  "integration_type": "service",
+  "iot_class": "calculated",
   "issue_tracker": "https://github.com/Geek-MD/Audio_Tools/issues",
   "requirements": [],
-  "version": "0.1.0"
+  "version": "0.1.1"
 }
